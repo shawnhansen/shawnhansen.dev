@@ -139,7 +139,7 @@ const Index = () => (
           <a href="https://github.com/geekles/shawnhansen.dev">
             Github Repository
           </a>
-          . Made by <a href="https://www.lekoarts.de">LekoArts</a>.
+          .
         </Footer>
       </Contact>
     </Parallax>
