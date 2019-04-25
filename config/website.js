@@ -11,7 +11,7 @@ module.exports = {
   siteLanguage: "en", // Language Tag on <html> element
   siteLogo: "/logo.png", // Used for SEO and manifest
   siteDescription: "Playful & Colorful One-Page website with Parallax effect",
-  author: "LekoArts", // Author for schema.org JSONLD
+  author: "Shawn Hansen", // Author for schema.org JSONLD
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
   userTwitter: "@geekles", // Twitter Username
