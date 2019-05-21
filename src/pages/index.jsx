@@ -119,19 +119,19 @@ const Index = () => (
         </AboutHero>
         <AboutDesc>
           I have strong experience in html, css, javascript, php, python, react,
-          and Netsuite. I was a retail manager in my previous work, and so have
+          and Netsuite. I was a retail manager in my previous work, and so I have
           strong team skills. If you're looking to hire someone for front end,
           either project work or remote work,{" "}
-          <a href="mailto:shawn.hansen@gmail.com">reach out</a>.
+          <a href="mailto:shawn.hansen@gmail.com" rel="me">reach out</a>.
         </AboutDesc>
       </About>
       <Contact offset={4}>
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
-            Say <a href="mailto:shawn.hansen@gmail.com">Hi</a> or find me on
-            other platforms: <a href="https://github.com/shawnhansen">Github</a> &{" "}
-            <a href="https://www.instagram.com/_shawnhansen/">Instagram</a>
+            Say <a href="mailto:shawn.hansen@gmail.com" rel="me">Hi</a> or find me on
+            other platforms: <a href="https://github.com/shawnhansen" rel="me">Github</a>, <a href="https://twitter.com/geekles" rel="me">Twitter</a>, &{" "}
+            <a href="https://www.instagram.com/_shawnhansen" rel="me">Instagram</a>
           </ContactText>
         </Inner>
         <Footer>
